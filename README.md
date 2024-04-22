@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [AltV-Roleplay Server](https://dsc.gg/revonet)
 
-- 🌱 I’m currently learning **React, Vue and Svelte**
+- 🌱 I’m currently learning **Micronaut /- Java -RestAPI**
 
 - 👯 I’m looking to collaborate on [AltV-Mango Framwork](https://github.com/altv-mango/altv-mango)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://dsc.gg/revonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/revonet" height="30" width="40" /></a>
+<a href="https://dsc.gg/revonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/revonet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
