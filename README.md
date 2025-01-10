@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AltV-Roleplay Server](https://dsc.gg/revonet)
+- 🔭 I’m currently working on a Terraria Clone with C++, OpenGL and SDL2 | only private purpose and not to Share
 
 - 🌱 I’m currently learning **Micronaut /- Java -RestAPI**
 
