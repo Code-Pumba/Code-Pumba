@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on a Terraria Clone with C++, OpenGL and SDL2 | only private purpose and not to Share
 
-- 🌱 I’m currently learning **Micronaut /- Java -RestAPI**
+- 🌱 I’m currently learning **SDL2 and Learning 2D Rendering with OpenGL**
 
-- 👯 I’m looking to collaborate on [AltV-Mango Framwork](https://github.com/altv-mango/altv-mango)
-
-- 🤝 I’m looking for help with **Roleplay-Server Development**
+- 🤝 I’m looking for help with **Anything where i can Help**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Code-Pumba](https://github.com/Code-Pumba)
 
